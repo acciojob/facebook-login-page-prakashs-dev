@@ -86,7 +86,6 @@ a[href="/recover/initiate"] {
 }
 
 #new_acc {
-    color: white;
     background-color: #43b72a;
     height: 7vh;
     width: 70%;
@@ -94,4 +93,9 @@ a[href="/recover/initiate"] {
     margin-left: 55px;
     font-size: 25px;
     cursor: pointer;
+}
+
+a{
+    color: white;
+    text-decoration: none;
 }
